@@ -1302,7 +1302,6 @@
   version "4.11.7"
   resolved "https://registry.yarnpkg.com/@strapi/generate-new/-/generate-new-4.11.7.tgz#a61c62d8a8dca0fdb7b72b2167c990338db96ec7"
   integrity sha512-a9Njs9f3ZuEc+L9NSw2/QI6mcKiySP5Qg7NXz+6bNE92CBjGdwwvJiaAuG/sc6tUfLAvLXslJLJEHIBwXmSAiA==
-
   dependencies:
     "@sentry/node" "6.19.7"
     chalk "^4.1.2"
@@ -1379,7 +1378,6 @@
   version "4.11.7"
   resolved "https://registry.yarnpkg.com/@strapi/logger/-/logger-4.11.7.tgz#948f3094f60b8412e988bd91420679a9466e79cf"
   integrity sha512-ewfzWAdueJ8bTEko5oNRolqlV1isNoldDGJrIG23wcmMW0/MADsve70brlLECp5FHR1w3BRF7PRXqHeDTP2BqA==
-
   dependencies:
     lodash "4.17.21"
     winston "3.9.0"
@@ -1532,12 +1530,12 @@
     "@strapi/utils" "4.11.7"
     sendmail "^1.6.1"
 
-"@strapi/provider-upload-cloudinary@4.11.5":
-  version "4.11.5"
-  resolved "https://registry.yarnpkg.com/@strapi/provider-upload-cloudinary/-/provider-upload-cloudinary-4.11.5.tgz#d6d42fb41c51079f16838295589bbf75e1405868"
-  integrity sha512-D7KCxJ1gbrW+b5AqZHsA/z17lKHkKkrQaYBwjCaLi8h0f1RfD/QcbFZaQPwDXKr7iy+bwRqTGPAfmFbx8Mzumw==
+"@strapi/provider-upload-cloudinary@4.11.7":
+  version "4.11.7"
+  resolved "https://registry.yarnpkg.com/@strapi/provider-upload-cloudinary/-/provider-upload-cloudinary-4.11.7.tgz#eb9a80dda21c791d88fb362e6452a990f8244cea"
+  integrity sha512-udLW1xsrWHXXVtTPZIvBfrjbnAxfeiu07DZjr0Lb13nny5VKYrMdmjhJbQti4uovXhrPG/JwoAzKf2BzRT8H5A==
   dependencies:
-    "@strapi/utils" "4.11.5"
+    "@strapi/utils" "4.11.7"
     cloudinary "^1.37.0"
     into-stream "^5.1.0"
 
